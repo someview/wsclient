@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29424e55-29f0-4add-a6f7-9627d230ae56" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/dialer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsclient_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/wsclient_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsframe_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/wsframe_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../gotool/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2t9AkiCcZUHGDLsuRxH0Z7gqn9y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go 构建.go build wsclient/example.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 BenchmarkInitAcceptFromNonce.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestDial_DailTimeout.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestDial_ReadTimeout.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_ConnectError.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_MissRequiredHeader.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_Normal.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_SecAcceptError.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_UpgradeError.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolFail.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolSucceed.executor": "Run",
+    "Go 测试.github.com/someview/wsclient 中的 TestSeekSeenFlags.executor": "Run",
+    "Go 测试.http_test.go.executor": "Run",
+    "Go 测试.util_test.go.executor": "Run",
+    "Go 测试.wsclient 中的 TestDial_ContextCancel.executor": "Run",
+    "Go 测试.wsclient 中的 TestDial_DailTimeout.executor": "Run",
+    "Go 测试.wsclient 中的 TestDial_ReadTimeout.executor": "Run",
+    "Go 测试.wsclient 中的 TestDialerTestSuite/TestDial_DailTimeout.executor": "Run",
+    "Go 测试.wsclient 中的 TestMultiReadLine.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_ConnectError.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_MissRequiredHeader.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_NoUpgrade.executor": "Debug",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_SecAcceptError.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_UpgradeError.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_subProtocol.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateHeaders_subProtocolSucceed.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateURL.executor": "Run",
+    "Go 测试.wsclient 中的 TestParseAndValidateURL/malformed_url.executor": "Run",
+    "Go 测试.wsclient 中的 TestProcessSubProtocol.executor": "Run",
+    "Go 测试.wsclient 中的 TestSeekSeenFlags.executor": "Run",
+    "Go 测试.wsclient 中的 TestValidateHTTPVersion.executor": "Run",
+    "Go 测试.wsclient_test.go.executor": "Run",
+    "Go 测试.wsframe_test.go.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "dev",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "E:/myproject/wstest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Code Search"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go 测试.github.com/someview/wsclient 中的 TestDial_ReadTimeout">
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <kind value="DIRECTORY" />
+      <package value="wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/someview/wsclient 中的 TestDial_DailTimeout" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <parameters value=" -testify.m ^TestDial_DailTimeout$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/someview/wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDialerTestSuite\E$/^\QTestDial_DailTimeout\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/someview/wsclient 中的 TestDial_ReadTimeout" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <parameters value=" -testify.m ^TestDial_ReadTimeout$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/someview/wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDialerTestSuite\E$/^\QTestDial_ReadTimeout\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/someview/wsclient 中的 TestParseAndValidateHeaders_MissRequiredHeader" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <parameters value=" -testify.m ^TestParseAndValidateHeaders_MissRequiredHeader$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/someview/wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDialerTestSuite\E$/^\QTestParseAndValidateHeaders_MissRequiredHeader\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolFail" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <parameters value=" -testify.m ^TestParseAndValidateHeaders_subProtocolFail$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/someview/wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDialerTestSuite\E$/^\QTestParseAndValidateHeaders_subProtocolFail\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolSucceed" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <parameters value=" -testify.m ^TestParseAndValidateHeaders_subProtocolSucceed$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/someview/wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDialerTestSuite\E$/^\QTestParseAndValidateHeaders_subProtocolSucceed\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test wsclient" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="wsclient" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags=all=-l" />
+      <kind value="DIRECTORY" />
+      <package value="wsclient" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 测试.go test wsclient" />
+      <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestDial_DailTimeout" />
+      <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestDial_ReadTimeout" />
+      <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_MissRequiredHeader" />
+      <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolFail" />
+      <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolSucceed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestDial_ReadTimeout" />
+        <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestDial_DailTimeout" />
+        <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolSucceed" />
+        <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_subProtocolFail" />
+        <item itemvalue="Go 测试.github.com/someview/wsclient 中的 TestParseAndValidateHeaders_MissRequiredHeader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-57c114c3cede-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.24978.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-GO-243.24978.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dialer_test.go</url>
+          <line>143</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/wsclient.go</url>
+          <line>179</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/wsframe.go</url>
+          <line>281</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/wsframe.go</url>
+          <line>285</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="*(*&quot;string&quot;)(824635293152)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
